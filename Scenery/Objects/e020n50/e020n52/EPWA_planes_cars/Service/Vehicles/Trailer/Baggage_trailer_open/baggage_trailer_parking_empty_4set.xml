@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+<!-- baggade trailer models -->
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer_parking_empty_first.xml</path>
+		<offsets>
+		  <x-m> 0.000 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+
+<!-- baggade trailer models -->
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer_parking_empty.xml</path>
+		<offsets>
+		  <x-m> 3.750 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+
+<!-- baggade trailer models -->	
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer_parking_empty.xml</path>
+		<offsets>
+		  <x-m> 7.500 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+
+<!-- baggade trailer models -->
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer_parking_empty.xml</path>
+		<offsets>
+		  <x-m> 11.250 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+
+<!-- LOD 
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>15000</max-m>
+</animation>-->
+
+       
+</PropertyList>

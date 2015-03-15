@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<PropertyList>
+       
+<path>tow_tracktor_Volk_DFZ30.ac</path>
+
+	<animation>
+		<name>Lights_front_All</name>
+		<object-name>Light_front</object-name>
+		<object-name>Light_signal_fr</object-name>
+	</animation>
+
+	<animation>
+		<name>Lights_All</name>
+		<object-name>Lights_front_All</object-name>
+		<object-name>Light_rear</object-name>
+		<object-name>Light_rear_top</object-name>
+	</animation>
+
+<!-- baggade trailer models -->
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer.ac</path>
+		<offsets>
+		  <x-m> 0.000 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer_bags.ac</path>
+		<offsets>
+		  <x-m> 0.000 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+
+<!-- baggade trailer models -->
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer_loaded180.xml</path>
+		<offsets>
+		  <x-m> 3.750 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+
+<!-- baggade trailer models -->	
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer_loaded180.xml</path>
+		<offsets>
+		  <x-m> 7.500 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+
+<!-- baggade trailer models -->
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer.ac</path>
+		<offsets>
+		  <x-m> 11.250 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Baggage_trailer_open/baggage_trailer_bags.ac</path>
+		<offsets>
+		  <x-m> 11.250 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+
+<!-- dont show the Bar parking model -->
+<animation>
+	<type>select</type> 
+	<object-name>Bar_parking_bgt</object-name>
+	<condition>		
+	<greater-than>		
+	<property>/sim/time/sun-angle-rad</property>
+	<value>10.57</value>
+	</greater-than>
+	</condition>
+</animation>
+
+
+
+<!-- Engine Test night window illumination -->
+<animation>
+	<type>material</type> 
+	<object-name>Lights_All</object-name>
+	<condition>		
+	<greater-than>		
+	<property>/sim/time/sun-angle-rad</property>
+	<value>1.57</value>
+	</greater-than>
+	</condition>
+	<emission>	
+	<red>0.7</red>	
+	<green>0.7</green>	
+	<blue>0.7</blue>
+	</emission>
+</animation>
+
+<!-- Obstruction lamp glass illumination 
+<animation>
+	<type>material</type> 
+	<object-name>osbt_lamp_light_E</object-name>
+	<condition>		
+	<greater-than>		
+	<property>/sim/time/sun-angle-rad</property>
+	<value>1.57</value>
+	</greater-than>
+	</condition>
+	<emission>	
+	<red>0.8</red>	
+	<green>0.8</green>	
+	<blue>0.8</blue>
+	</emission>
+</animation>-->
+
+<!-- dont show the front light model during day-->
+<animation>
+	<type>select</type> 
+	<object-name>Lights_front_All</object-name>
+	<condition>		
+	<greater-than>		
+	<property>/sim/time/sun-angle-rad</property>
+	<value>1.57</value>
+	</greater-than>
+	</condition>
+</animation>
+
+<!-- LOD 
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>15000</max-m>
+</animation>-->
+
+       
+</PropertyList>

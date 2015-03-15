@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<PropertyList>
+       
+<path>container_trailer.ac</path>
+
+	<!-- baggs models -->
+	<model>
+	   <path>Models/Airport/Vehicles/Trailer/Container_trailer/container_AKH.ac</path>
+		<offsets>
+		  <x-m> 0.000 </x-m>
+		  <y-m> 0.000 </y-m>
+		  <z-m> 0.000 </z-m>
+		  <pitch-deg> 0.00</pitch-deg>
+		  <heading-deg>0.0 </heading-deg>
+		</offsets>
+	</model>
+	
+	<animation>
+		<name>Container_All</name>
+		<!-- <object-name>Container_platform</object-name>  -->
+		<object-name>Container</object-name>
+	</animation>
+
+	<!-- Rotate Container and Platform 90deg -->
+	<animation>
+		<type>rotate</type>
+		<object-name>Container_All</object-name>
+			<property>/sim/signals/fdm-initialized</property>
+			<factor>1</factor>
+			<interpolation>
+				<entry><ind> 0.0 </ind><dep>   0.00 </dep></entry>
+				<entry><ind> 1.0 </ind><dep> 180.00 </dep></entry>
+			</interpolation>
+			<axis>
+				<x>4.250</x>
+				<y>0</y>
+				<z>1</z>
+				<x1-m>  4.250 </x1-m>
+				<y1-m>  0.000 </y1-m>
+				<z1-m> -1.000 </z1-m>
+				<x2-m>  4.250 </x2-m>
+				<y2-m>  0.000 </y2-m>
+				<z2-m>  1.000 </z2-m>
+			</axis>
+	</animation>
+
+	
+<!-- dont show the Bar parking model -->
+<animation>
+	<type>select</type> 
+	<object-name>Bar_parking</object-name>
+	<condition>		
+	<greater-than>		
+	<property>/sim/time/sun-angle-rad</property>
+	<value>10.57</value>
+	</greater-than>
+	</condition>
+</animation>
+
+<!-- LOD 
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>15000</max-m>
+</animation>-->
+
+       
+</PropertyList>
