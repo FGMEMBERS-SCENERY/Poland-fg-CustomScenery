@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="gate"
+             name="Transport"
+             number=""
+             lat="N53 47.570"
+             lon="E15 49.857"
+             heading="199.69"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="gate"
+             name="South"
+             number=""
+             lat="N53 47.120"
+             lon="E15 50.629"
+             heading="291.37"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="gate"
+             name="East"
+             number=""
+             lat="N53 47.311"
+             lon="E15 50.717"
+             heading="289.49"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="3"
+             type="gate"
+             name="Main"
+             number=""
+             lat="N53 47.489"
+             lon="E15 50.139"
+             heading="201.97"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="4"
+             type="gate"
+             name="West"
+             number=""
+             lat="N53 47.678"
+             lon="E15 48.957"
+             heading="110.81"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>

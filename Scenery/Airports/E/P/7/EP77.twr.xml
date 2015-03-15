@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+ <tower>
+   <twr>
+14  53.59102092  016.71450933  82.02 0 Tower
+     <lon></lon>
+     <lat></lat>
+     <elev-m>50</elev-m>
+   </twr>
+ </tower>
+</PropertyList>

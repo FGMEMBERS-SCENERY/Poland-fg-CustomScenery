@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <TOWER></TOWER>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name="Apron"
+             number=""
+             lat="N50 54.119"
+             lon="E20 43.617"
+             heading="192.20"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+</groundnet>

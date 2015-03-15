@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <TOWER></TOWER>
+  </frequencies>
+  <parkingList>
+	  1300  51.42744431  016.19376284  82.71 misc jets Apron
+1300  51.42555442  016.19652064 174.75 misc heavy Hangar
+    <Parking index="0"
+             type="ga"
+             name="Apron"
+             number=""
+             lat="N51 25.646"
+             lon="E16 11.626"
+             heading="82.71"
+             radius="17.3"
+             airlineCodes="" />
+	<Parking index="0"
+             type="ga"
+             name="Hangar"
+             number=""
+             lat="N51 25.533"
+             lon="E16 11.791"
+             heading="174.75"
+             radius="17.3"
+             airlineCodes="" />
+  </parkingList>
+</groundnet>

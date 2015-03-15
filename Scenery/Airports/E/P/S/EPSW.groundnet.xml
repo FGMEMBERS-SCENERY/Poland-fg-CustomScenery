@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name="VFR"
+             number="3"
+             lat="N51 13.656"
+             lon="E22 41.814"
+             heading="70.6114"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="ga"
+             name="VFR"
+             number="2"
+             lat="N51 13.704"
+             lon="E22 41.836"
+             heading="70.9308"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="ga"
+             name="Cargo"
+             number="1"
+             lat="N51 13.991"
+             lon="E22 42.005"
+             heading="295.017"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+  <TaxiNodes>
+    <node index="3" lat="N51 13.992" lon="E22 42.002" isOnRunway="0" holdPointType="none" />
+    <node index="4" lat="N51 13.994" lon="E22 41.981" isOnRunway="0" holdPointType="none" />
+    <node index="5" lat="N51 13.979" lon="E22 41.975" isOnRunway="0" holdPointType="none" />
+    <node index="6" lat="N51 13.978" lon="E22 41.958" isOnRunway="0" holdPointType="none" />
+    <node index="7" lat="N51 13.994" lon="E22 41.939" isOnRunway="0" holdPointType="none" />
+    <node index="8" lat="N51 14.015" lon="E22 41.933" isOnRunway="0" holdPointType="none" />
+    <node index="9" lat="N51 14.037" lon="E22 41.943" isOnRunway="0" holdPointType="none" />
+    <node index="10" lat="N51 14.057" lon="E22 41.948" isOnRunway="0" holdPointType="none" />
+    <node index="11" lat="N51 14.072" lon="E22 41.934" isOnRunway="0" holdPointType="none" />
+    <node index="12" lat="N51 14.073" lon="E22 41.901" isOnRunway="0" holdPointType="none" />
+    <node index="13" lat="N51 14.059" lon="E22 41.864" isOnRunway="1" holdPointType="normal" />
+    <node index="14" lat="N51 13.703" lon="E22 41.842" isOnRunway="0" holdPointType="none" />
+    <node index="15" lat="N51 13.728" lon="E22 41.864" isOnRunway="0" holdPointType="none" />
+    <node index="16" lat="N51 13.753" lon="E22 41.871" isOnRunway="0" holdPointType="none" />
+    <node index="17" lat="N51 13.772" lon="E22 41.858" isOnRunway="0" holdPointType="none" />
+    <node index="18" lat="N51 13.789" lon="E22 41.786" isOnRunway="0" holdPointType="none" />
+    <node index="19" lat="N51 13.810" lon="E22 41.674" isOnRunway="0" holdPointType="none" />
+    <node index="20" lat="N51 13.836" lon="E22 41.527" isOnRunway="0" holdPointType="none" />
+    <node index="21" lat="N51 13.891" lon="E22 41.471" isOnRunway="0" holdPointType="none" />
+    <node index="22" lat="N51 13.914" lon="E22 41.446" isOnRunway="0" holdPointType="none" />
+    <node index="23" lat="N51 13.910" lon="E22 41.427" isOnRunway="0" holdPointType="none" />
+    <node index="24" lat="N51 13.893" lon="E22 41.442" isOnRunway="0" holdPointType="none" />
+    <node index="25" lat="N51 13.857" lon="E22 41.481" isOnRunway="0" holdPointType="none" />
+    <node index="26" lat="N51 13.784" lon="E22 41.571" isOnRunway="0" holdPointType="none" />
+    <node index="27" lat="N51 13.771" lon="E22 41.561" isOnRunway="0" holdPointType="none" />
+    <node index="28" lat="N51 13.774" lon="E22 41.538" isOnRunway="0" holdPointType="none" />
+    <node index="29" lat="N51 13.796" lon="E22 41.526" isOnRunway="1" holdPointType="normal" />
+    <node index="30" lat="N51 13.656" lon="E22 41.816" isOnRunway="0" holdPointType="none" />
+    <node index="31" lat="N51 13.674" lon="E22 41.843" isOnRunway="0" holdPointType="none" />
+    <node index="32" lat="N51 13.703" lon="E22 41.865" isOnRunway="0" holdPointType="none" />
+    <node index="33" lat="N51 13.728" lon="E22 41.866" isOnRunway="1" holdPointType="normal" />
+  </TaxiNodes>
+  <TaxiWaySegments>
+    <arc begin="2" end="3" isPushBackRoute="0" name="" />
+    <arc begin="3" end="4" isPushBackRoute="0" name="" />
+    <arc begin="4" end="5" isPushBackRoute="0" name="" />
+    <arc begin="5" end="6" isPushBackRoute="0" name="" />
+    <arc begin="6" end="7" isPushBackRoute="0" name="" />
+    <arc begin="7" end="8" isPushBackRoute="0" name="" />
+    <arc begin="8" end="9" isPushBackRoute="0" name="" />
+    <arc begin="9" end="10" isPushBackRoute="0" name="" />
+    <arc begin="10" end="11" isPushBackRoute="0" name="" />
+    <arc begin="11" end="12" isPushBackRoute="0" name="" />
+    <arc begin="12" end="13" isPushBackRoute="0" name="" />
+    <arc begin="1" end="14" isPushBackRoute="0" name="" />
+    <arc begin="14" end="15" isPushBackRoute="0" name="" />
+    <arc begin="15" end="16" isPushBackRoute="0" name="" />
+    <arc begin="16" end="17" isPushBackRoute="0" name="" />
+    <arc begin="17" end="18" isPushBackRoute="0" name="" />
+    <arc begin="18" end="19" isPushBackRoute="0" name="" />
+    <arc begin="19" end="20" isPushBackRoute="0" name="" />
+    <arc begin="20" end="21" isPushBackRoute="0" name="" />
+    <arc begin="21" end="22" isPushBackRoute="0" name="" />
+    <arc begin="22" end="23" isPushBackRoute="0" name="" />
+    <arc begin="23" end="24" isPushBackRoute="0" name="" />
+    <arc begin="24" end="25" isPushBackRoute="0" name="" />
+    <arc begin="25" end="26" isPushBackRoute="0" name="" />
+    <arc begin="26" end="27" isPushBackRoute="0" name="" />
+    <arc begin="27" end="28" isPushBackRoute="0" name="" />
+    <arc begin="28" end="29" isPushBackRoute="0" name="" />
+    <arc begin="0" end="30" isPushBackRoute="0" name="" />
+    <arc begin="30" end="31" isPushBackRoute="0" name="" />
+    <arc begin="31" end="32" isPushBackRoute="0" name="" />
+    <arc begin="32" end="33" isPushBackRoute="0" name="" />
+  </TaxiWaySegments>
+</groundnet>

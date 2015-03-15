@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <TOWER>11832</TOWER>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name=""
+             number="E"
+             lat="N55 04.123"
+             lon="E14 44.977"
+             heading="202.14"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="ga"
+             name=""
+             number="W"
+             lat="N55 04.099"
+             lon="E14 44.749"
+             heading="129.40"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="ga"
+             name="Grass"
+             number=""
+             lat="N55 04.220"
+             lon="E14 44.881"
+             heading="113.87"
+             radius="17.3"
+             airlineCodes="" />
+  </parkingList>
+  <TaxiNodes></TaxiNodes>
+  <TaxiWaySegments></TaxiWaySegments>
+</groundnet>

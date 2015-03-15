@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <UNICOM>12230</UNICOM>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name="APRON"
+             number="1"
+             lat="N53 36.552"
+             lon="E20 20.986"
+             heading="219.359"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>

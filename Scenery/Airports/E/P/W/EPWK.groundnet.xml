@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <TOWER></TOWER>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name="1"
+             number=""
+             lat="N52 35.188"
+             lon="E19 00.796"
+             heading="269.56"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="0"
+             type="ga"
+             name="2"
+             number=""
+             lat="N52 35.158"
+             lon="E19 00.704"
+             heading="1.19"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+</groundnet>

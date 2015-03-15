@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <TOWER></TOWER>
+  </frequencies>
+  <parkingList>
+1300  53.59468150  016.69994180  40.68 misc props West
+1300  53.59089109  016.72967208 338.20 misc props East
+    <Parking index="0"
+             type="ga"
+             name="West"
+             number=""
+             lat="N53 35.681"
+             lon="E16 41.996"
+             heading="40.68"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="0"
+             type="ga"
+             name="East"
+             number=""
+             lat="N53 35.453"
+             lon="E16 43.780"
+             heading="338.20"
+             radius="17.3"
+             airlineCodes="" />
+  </parkingList>
+</groundnet>

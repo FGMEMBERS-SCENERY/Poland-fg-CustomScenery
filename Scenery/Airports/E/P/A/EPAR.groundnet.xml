@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="gate"
+             name="1"
+             number=""
+             lat="N49 39.781"
+             lon="E22 30.860"
+             heading="260.08"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="gate"
+             name="2"
+             number=""
+             lat="N49 39.808"
+             lon="E22 30.850"
+             heading="-106.22"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>

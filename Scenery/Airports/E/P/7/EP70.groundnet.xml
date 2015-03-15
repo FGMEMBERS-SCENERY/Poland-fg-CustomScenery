@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name="VFR"
+             number="1"
+             lat="N52 19.557"
+             lon="E14 48.678"
+             heading="181.443"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="ga"
+             name="VFR"
+             number="2"
+             lat="N52 19.542"
+             lon="E14 48.777"
+             heading="179.927"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>

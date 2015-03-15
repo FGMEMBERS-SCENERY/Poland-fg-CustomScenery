@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name="Tank"
+             number="1"
+             lat="N51 4.931"
+             lon="E23 26.121"
+             heading="188.633"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="ga"
+             name="Square"
+             number="2"
+             lat="N51 4.951"
+             lon="E23 26.147"
+             heading="103.474"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="ga"
+             name="Square"
+             number="3"
+             lat="N51 4.901"
+             lon="E23 26.131"
+             heading="104.522"
+             radius="17.3"
+             airlineCodes="" />
+
+  </parkingList>
+
+</groundnet>

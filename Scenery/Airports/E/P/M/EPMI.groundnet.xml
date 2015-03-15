@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <TOWER></TOWER>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name="Apron"
+             number="C"
+             lat="N53 23.236"
+             lon="E16 05.662"
+             heading="353.37"
+             radius="17.3"
+             airlineCodes="" />
+	<Parking index="1"
+             type="ga"
+             name="Hangar"
+             number=""
+             lat="N53 23.153"
+             lon="E16 05.620"
+             heading="8.88"
+             radius="17.3"
+             airlineCodes="" />          
+     <Parking index="2"
+             type="ga"
+             name="Apron"
+             number="A"
+             lat="N53 23.582"
+             lon="E16 04.822"
+             heading="34.69"
+             radius="17.3"
+             airlineCodes="" />
+             
+      <Parking index="2"
+             type="ga"
+             name="Apron"
+             number="B"
+             lat="N53 23.808"
+             lon="E16 04.380"
+             heading="76.24"
+             radius="17.3"
+             airlineCodes="" />
+  </parkingList>
+</groundnet>

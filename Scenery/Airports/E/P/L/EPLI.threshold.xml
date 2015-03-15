@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+  <runway>
+    <threshold>
+      <lon>18.500937</lon>
+      <lat>54.006542</lat>
+      <rwy>02</rwy>
+      <hdg-deg>17</hdg-deg>
+      <displ-m>0</displ-m>
+      <stopw-m>0</stopw-m>
+    </threshold>
+
+    <threshold>
+      <lon>18.502131</lon>
+      <lat>54.008783</lat>
+      <rwy>20</rwy>
+      <hdg-deg>207</hdg-deg>
+      <displ-m>0</displ-m>
+      <stopw-m>0</stopw-m>
+    </threshold>
+
+    <threshold>
+      <lon>18.497140</lon>
+      <lat>54.007831</lat>
+      <rwy>09</rwy>
+      <hdg-deg>88</hdg-deg>
+      <displ-m>0</displ-m>
+      <stopw-m>0</stopw-m>
+    </threshold>
+
+    <threshold>
+      <lon>18.502809</lon>
+      <lat>54.007953</lat>
+      <rwy>27</rwy>
+      <hdg-deg>268</hdg-deg>
+      <displ-m>0</displ-m>
+      <stopw-m>0</stopw-m>
+    </threshold>
+
+  </runway>
+</PropertyList>
