@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>clump3.ac</path>
+
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>20000</max-m>
+ </animation>
+
+<material>
+  <condition>
+    <equals>
+      <property>sim/startup/season</property>
+      <value>winter</value>
+    </equals>
+  </condition>
+<texture>t9w.png</texture>
+<texture>t10w.png</texture>
+<texture>t11w.png</texture>
+<texture>t13w.png</texture>
+<texture>t14w.png</texture>
+<texture>t15w.png</texture>
+
+</material>
+
+</PropertyList>
