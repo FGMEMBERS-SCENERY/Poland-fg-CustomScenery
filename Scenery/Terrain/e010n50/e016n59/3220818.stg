@@ -1,0 +1,5 @@
+OBJECT_BASE 3220818.btg
+OBJECT ESSU.btg
+OBJECT_SHARED Models/Airport/beacon.xml 16.709635 59.351097 45.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.709072 59.359558 44.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.707724 59.342590 42.5 0.00

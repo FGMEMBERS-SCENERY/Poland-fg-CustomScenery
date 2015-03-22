@@ -1,0 +1,5 @@
+OBJECT_BASE 3220689.btg
+OBJECT ESMO.btg
+OBJECT_SHARED Models/Airport/beacon.xml 16.495969 57.348918 28.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.495809 57.341879 22.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.499606 57.355796 26.1 0.00

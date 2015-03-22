@@ -1,0 +1,4 @@
+OBJECT_BASE 3220800.btg
+OBJECT ESVK.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.218680 59.026130 48.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.221872 59.018311 45.2 0.00
