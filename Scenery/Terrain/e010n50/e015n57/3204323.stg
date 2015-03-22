@@ -1,0 +1,5 @@
+OBJECT_BASE 3204323.btg
+OBJECT ESSF.btg
+OBJECT_SHARED Models/Airport/beacon.xml 15.824976 57.526880 110.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 15.809195 57.530222 109.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 15.838700 57.521276 107.7 0.00
