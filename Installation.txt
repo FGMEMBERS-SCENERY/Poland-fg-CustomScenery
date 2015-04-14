@@ -1,0 +1,12 @@
+Niestandardowa sceneria Polski dla FlightGear.
+
+Opis instalacji dla systemu Windows opisał Zbyszek na stronie Flightgear Polska:
+http://flightgear.net76.net/wordpress/?p=288.
+
+W Linuksie instalujemy aplikację Git z repozytorium danej dystrybucji.
+
+Pliki z danymi nawigacyjnymi nav.dat.gz oraz fix.dat.gz należy podmienić. Orginalne najlepiej nazwać inaczej np. nav-orginal.dat.gz. Zawierają one wszystkie punkty FIX dla Polski, aktualne radiolatarnie NDB, DVOR oraz aktualne dane dotyczące ILS na Polskich lotniskach.
+To samo należy zrobić z plikiem apt.dat.gz. Orginał też należy zachować pod inną nazwą. Plik ten zawiera wszystkie lotniska Polski trawiaste i utwardzone.
+
+Dane w katalogu /fgdata/Scenery/Airport/E zawierają informacje dotyczące pasów lotnisk, miejsc parkingowych, danych ILS. Także należy je przenieść do odpowiednich katalogów.
+
