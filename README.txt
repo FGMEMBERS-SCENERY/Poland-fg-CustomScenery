@@ -23,3 +23,16 @@ Dodałem trzy lądowiska na Lubelszczyźnie.
 EP80 Dębowa Kłoda
 EP81 Marynin dawne trawiaste lotnisko wojskowe
 EP82 Nadrybie
+
+Zakończył się proces dodawania szablonów lotnisk. 
+Część została dodana do bazy X-Plane skąd FlightGear pobiera dane odnośnie lotnisk.
+
+Lotniska, które posiadaja obiekty:
+EPCD Depułtycze Królewskie
+EPZA Zamość
+EPSA Złobek Mały
+EPLB Lublin Świdnik
+EPLR Radawiec
+EPSJ Sobienie Królewskie
+EPRZ Rzeszów Jasionka
+EPDE Dęblin Irena
