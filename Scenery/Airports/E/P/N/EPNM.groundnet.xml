@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<groundnet>
+    <parkingList>
+        <Parking index="0" 
+                 type="gate" 
+                 name="3" 
+                 lat="N51 37.437225" 
+                 lon="E20 31.325965" 
+                 heading="77.590000" />
+        <Parking index="1" 
+                 type="gate" 
+                 name="2" 
+                 lat="N51 37.703705" 
+                 lon="E20 33.040388" 
+                 heading="254.740000" />
+        <Parking index="2" 
+                 type="gate" 
+                 name="1" 
+                 lat="N51 37.407852" 
+                 lon="E20 32.225981" 
+                 heading="345.070000" />
+        <Parking index="3" 
+                 type="gate" 
+                 name="Hangar" 
+                 lat="N51 37.464136" 
+                 lon="E20 32.636680" 
+                 heading="77.110000" />
+    </parkingList>
+</groundnet>
