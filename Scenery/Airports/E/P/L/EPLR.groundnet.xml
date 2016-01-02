@@ -1,50 +1,23 @@
 <?xml version="1.0"?>
 <groundnet>
-   <version>1</version>
-  <frequencies>
-	<TOWER></TOWER>
-  </frequencies>
-  <parkingList>
-    <Parking index="0"
-             type="ga"
-             name="VFR"
-             number="1"
-             lat="N51 13.073"
-             lon="E22 23.448"
-             heading="57.7146"
-             radius="17.3"
-             airlineCodes="" />
-
-    <Parking index="1"
-             type="ga"
-             name="VFR"
-             number="2"
-             lat="N51 13.026"
-             lon="E22 23.468"
-             heading="61.0736"
-             radius="17.3"
-             airlineCodes="" />
-
-    <Parking index="2"
-             type="ga"
-             name="VFR"
-             number="4"
-             lat="N51 13.097"
-             lon="E22 23.594"
-             heading="252.181"
-             radius="17.3"
-             airlineCodes="" />
-
-    <Parking index="3"
-             type="ga"
-             name="VFR"
-             number="5"
-             lat="N51 13.054"
-             lon="E22 23.624"
-             heading="259.144"
-             radius="17.3"
-             airlineCodes="" />
-
-  </parkingList>
- 
+    <parkingList>
+        <Parking index="0" 
+                 type="gate" 
+                 name="Hangar" 
+                 lat="N51 13.205761" 
+                 lon="E22 23.661208" 
+                 heading="271.570000" />
+        <Parking index="1" 
+                 type="gate" 
+                 name="Serwis" 
+                 lat="N51 13.209092" 
+                 lon="E22 23.763771" 
+                 heading="180.390000" />
+        <Parking index="2" 
+                 type="gate" 
+                 name="Fuel" 
+                 lat="N51 13.215475" 
+                 lon="E22 23.506755" 
+                 heading="1.300000" />
+    </parkingList>
 </groundnet>
