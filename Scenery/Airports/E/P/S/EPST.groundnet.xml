@@ -1,76 +1,17 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <groundnet>
-   <version>1</version>
-  <frequencies>
-  </frequencies>
-  <parkingList>
-    <Parking index="0"
-             type="ga"
-             name="Square"
-             number="1"
-             lat="N50 37.515"
-             lon="E21 59.892"
-             heading="301.329"
-             radius="17.3"
-             airlineCodes="" />
-
-    <Parking index="1"
-             type="ga"
-             name="Square"
-             number="2"
-             lat="N50 37.541"
-             lon="E21 59.661"
-             heading="107.488"
-             radius="17.3"
-             airlineCodes="" />
-
-    <Parking index="2"
-             type="ga"
-             name="Square"
-             number="3"
-             lat="N50 37.575"
-             lon="E21 59.690"
-             heading="113.385"
-             radius="17.3"
-             airlineCodes="" />
-
-  </parkingList>
-  <TaxiNodes>
-    <node index="3" lat="N50 37.572" lon="E21 59.691" isOnRunway="0" holdPointType="none" />
-    <node index="4" lat="N50 37.561" lon="E21 59.735" isOnRunway="0" holdPointType="none" />
-    <node index="5" lat="N50 37.580" lon="E21 59.750" isOnRunway="0" holdPointType="none" />
-    <node index="6" lat="N50 37.604" lon="E21 59.712" isOnRunway="0" holdPointType="none" />
-    <node index="7" lat="N50 37.624" lon="E21 59.635" isOnRunway="0" holdPointType="none" />
-    <node index="8" lat="N50 37.650" lon="E21 59.604" isOnRunway="0" holdPointType="none" />
-    <node index="9" lat="N50 37.683" lon="E21 59.588" isOnRunway="0" holdPointType="none" />
-    <node index="10" lat="N50 37.685" lon="E21 59.629" isOnRunway="0" holdPointType="none" />
-    <node index="11" lat="N50 37.684" lon="E21 59.629" isOnRunway="1" holdPointType="normal" />
-    <node index="12" lat="N50 37.541" lon="E21 59.665" isOnRunway="0" holdPointType="none" />
-    <node index="13" lat="N50 37.533" lon="E21 59.692" isOnRunway="0" holdPointType="none" />
-    <node index="14" lat="N50 37.537" lon="E21 59.716" isOnRunway="0" holdPointType="none" />
-    <node index="15" lat="N50 37.562" lon="E21 59.736" isOnRunway="1" holdPointType="normal" />
-    <node index="16" lat="N50 37.516" lon="E21 59.897" isOnRunway="0" holdPointType="none" />
-    <node index="17" lat="N50 37.530" lon="E21 59.824" isOnRunway="0" holdPointType="none" />
-    <node index="18" lat="N50 37.546" lon="E21 59.776" isOnRunway="0" holdPointType="none" />
-    <node index="19" lat="N50 37.579" lon="E21 59.750" isOnRunway="1" holdPointType="normal" />
-  </TaxiNodes>
-  <TaxiWaySegments>
-    <arc begin="2" end="3" isPushBackRoute="0" name="" />
-    <arc begin="3" end="4" isPushBackRoute="0" name="" />
-    <arc begin="4" end="5" isPushBackRoute="0" name="" />
-    <arc begin="5" end="6" isPushBackRoute="0" name="" />
-    <arc begin="6" end="7" isPushBackRoute="0" name="" />
-    <arc begin="7" end="8" isPushBackRoute="0" name="" />
-    <arc begin="8" end="9" isPushBackRoute="0" name="" />
-    <arc begin="9" end="10" isPushBackRoute="0" name="" />
-    <arc begin="10" end="11" isPushBackRoute="0" name="" />
-    <arc begin="1" end="12" isPushBackRoute="0" name="" />
-    <arc begin="12" end="13" isPushBackRoute="0" name="" />
-    <arc begin="13" end="14" isPushBackRoute="0" name="" />
-    <arc begin="14" end="15" isPushBackRoute="0" name="" />
-    <arc begin="0" end="16" isPushBackRoute="0" name="" />
-    <arc begin="16" end="17" isPushBackRoute="0" name="" />
-    <arc begin="17" end="18" isPushBackRoute="0" name="" />
-    <arc begin="18" end="19" isPushBackRoute="0" name="" />
-  </TaxiWaySegments>
+    <parkingList>
+        <Parking index="0"
+                 type="gate"
+                 name="Hangar"
+                 lat="N50 37.564523"
+                 lon="E21 59.728533"
+                 heading="30.530000" />
+        <Parking index="1"
+                 type="gate"
+                 name="Tower"
+                 lat="N50 37.507834"
+                 lon="E21 59.867399"
+                 heading="208.380000" />
+    </parkingList>
 </groundnet>
