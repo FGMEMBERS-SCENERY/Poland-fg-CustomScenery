@@ -2,10 +2,11 @@
 <groundnet>
   <version>1</version>
   <frequencies>
-    <AWOS>12045</AWOS>
-    <TOWER>11810</TOWER>
-    <APPROACH>130875</APPROACH>
-  </frequencies>
+    <AWOS>120450</AWOS>
+    <ATIS>129625</ATIS>
+    <TOWER>118100</TOWER>
+    <APPROACH>127275</APPROACH>
+</frequencies>
   <parkingList>
 <!-- PPS1,  1 - AT72 -->
     <Parking index="0"
