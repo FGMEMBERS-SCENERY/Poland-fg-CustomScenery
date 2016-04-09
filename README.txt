@@ -28,11 +28,26 @@ Zakończył się proces dodawania szablonów lotnisk.
 Część została dodana do bazy X-Plane skąd FlightGear pobiera dane odnośnie lotnisk.
 
 Lotniska, które posiadaja obiekty:
+trawiaste:
 EPCD Depułtycze Królewskie
 EPZA Zamość
 EPSA Złobek Mały
-EPLB Lublin Świdnik
 EPLR Radawiec
 EPSJ Sobienie Królewskie
+EPST Turbia k/ Stalowej Woli
+
+z pasem utwardzonym:
+EPLB Lublin Świdnik
 EPRZ Rzeszów Jasionka
+EPGD Gdańsk
+EPSC Szczecin Goleniów
+EPLL Łódź Lublinek
+EPZG Zielona Góra Babimost
+EPKK Kraków
+EPWA Warszawa-Okęcie
+EPMO Warszawa Modlin
+EPBC Warzsawa-Babice
+LZTT Poprad-Tatry
+
+wojskowe:
 EPDE Dęblin Irena
