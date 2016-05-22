@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>lampa13_2.ac</path>
+	<animation>
+		<type>select</type>
+		<!--<object-name>swiatlo1</object-name>-->
+		<object-name>ground_light_2</object-name>
+		<enable-hot type="bool">false</enable-hot>
+		<condition>
+        <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+        </greater-than>
+		</condition>
+    </animation>
+	
+	<animation>
+		<type>material</type> 
+		<object-name>szklo_lampy1</object-name>
+		<condition>		
+		<greater-than>		
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.57</value>
+		</greater-than>
+		</condition>
+		<emission>	
+		<red>1</red>	
+		<green>1</green>	
+		<blue>1</blue>
+		</emission>
+	</animation>
+
+	<animation>
+		<type>material</type> 
+		<object-name>szklo_lampy1.001</object-name>
+		<condition>		
+		<greater-than>		
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.57</value>
+		</greater-than>
+		</condition>
+		<emission>	
+		<red>1</red>	
+		<green>1</green>	
+		<blue>1</blue>
+		</emission>
+	</animation>
+
+
+</PropertyList>
