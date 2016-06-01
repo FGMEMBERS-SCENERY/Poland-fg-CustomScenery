@@ -35,10 +35,13 @@ EPSA Złobek Mały
 EPLR Radawiec
 EPSJ Sobienie Królewskie
 EPST Turbia k/ Stalowej Woli
+EPSW Świdnik
+
 
 z pasem utwardzonym:
 EPLB Lublin Świdnik
 EPRZ Rzeszów Jasionka
+EPRJ Rzeszów OKL
 EPGD Gdańsk
 EPSC Szczecin Goleniów
 EPLL Łódź Lublinek
@@ -48,6 +51,7 @@ EPWA Warszawa-Okęcie
 EPMO Warszawa Modlin
 EPBC Warzsawa-Babice
 LZTT Poprad-Tatry
+EPKA Kielce Masłów
 
 wojskowe:
 EPDE Dęblin Irena
