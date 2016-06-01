@@ -2,7 +2,9 @@
 Niestandardowa sceneria Polski dla Flightgear.
 
 Elevation data – SRTM-3
+
 Terrain data – CLC2006v16  and OSM
+
 Roads, railways – OSM
 
 All layout are airports in version 1000.
