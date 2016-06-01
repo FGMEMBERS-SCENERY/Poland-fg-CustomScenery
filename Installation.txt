@@ -9,4 +9,4 @@ Pliki z danymi nawigacyjnymi nav.dat.gz oraz fix.dat.gz należy podmienić. Orgi
 To samo należy zrobić z plikiem apt.dat.gz. Orginał też należy zachować pod inną nazwą. Plik ten zawiera wszystkie lotniska Polski trawiaste i utwardzone.
 
 Dane w katalogu /fgdata/Scenery/Airport/E zawierają informacje dotyczące pasów lotnisk, miejsc parkingowych, danych ILS. Także należy je przenieść do odpowiednich katalogów.
-
+Dodatkowo zamieściłem pliki z procedurami SID i STAR w katalogu Dokumentation/Procedures.
